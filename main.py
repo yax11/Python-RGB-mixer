@@ -1,5 +1,6 @@
 import wx
 
+#this is a comment
 
 class MaineR(wx.Frame):
 
